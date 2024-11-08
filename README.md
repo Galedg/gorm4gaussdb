@@ -4,7 +4,7 @@
 
 [云数据库 GaussDB](https://support.huaweicloud.com/gaussdb/index.html) 是华为自主创新研发的分布式关系型数据库。该产品具备企业级复杂事务混合负载能力，同时支持分布式事务，同城跨AZ部署，数据0丢失，支持1000+的扩展能力，PB级海量存储。同时拥有云上高可用，高可靠，高安全，弹性伸缩，一键部署，快速备份恢复，监控告警等关键能力。
 
-本项目的目的是让GORM支持GaussDB数据库 [GORM适配GaussDB开源开发任务](https://developer.huaweicloud.com/programs/opensource/contributing/task-detail/0bf191f008bb4a8eb07cc428f65167f5)
+本项目的目的是让GORM支持GaussDB数据库。[GORM开源软件For Huawei开发任务的心得体会](https://bbs.huaweicloud.com/blogs/439075)
 
 
 ## Quick Start
