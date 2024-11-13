@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	gitee.com/opengauss/openGauss-connector-go-pq v1.0.4
-	github.com/jackc/pgx/v5 v5.6.0
+	github.com/jackc/pgx/v5 v5.5.5
 	gorm.io/gorm v1.25.12
 )
 
